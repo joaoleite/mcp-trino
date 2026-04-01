@@ -251,7 +251,7 @@ For client integration and tool documentation, see [Integration Guide](docs/inte
 
 ## Configuration
 
-**Key Variables:** `TRINO_HOST`, `TRINO_USER`, `TRINO_SCHEME`, `MCP_TRANSPORT`, `OAUTH_PROVIDER`
+**Key Variables:** `TRINO_HOST`, `TRINO_USER`, `TRINO_SCHEME`, `MCP_TRANSPORT`,`TRINO_SOURCE`, `OAUTH_PROVIDER`
 
 **OAuth Configuration:**
 
